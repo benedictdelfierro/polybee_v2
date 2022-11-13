@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "440212825933",
+    "project_id": "polybee-b7606",
+    "storage_bucket": "polybee-b7606.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440212825933:android:1f6f94583ef5867da23904",
+        "android_client_info": {
+          "package_name": "com.example.polybee_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440212825933-b5sqqfipvvjijrqec5onlul4b9em9ht8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUDOd9dcxy_GOS0uYpS2P8aJ9Q0SfYC_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440212825933-b5sqqfipvvjijrqec5onlul4b9em9ht8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440212825933-pum808sqspvjbeb69p3tof192f1ptece.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.polybeeV2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
