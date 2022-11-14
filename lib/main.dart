@@ -1,10 +1,8 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
-import 'package:firebase_database/firebase_database.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:polybee_v2/views/camera_page.dart';
 import 'firebase_options.dart';
-import 'package:flutter/material.dart';
 import 'views/newPlotForm.dart';
 import 'views/recordings.dart';
 

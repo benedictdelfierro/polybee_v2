@@ -50,18 +50,18 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAUDOd9dcxy_GOS0uYpS2P8aJ9Q0SfYC_0',
-    appId: '1:440212825933:android:1f6f94583ef5867da23904',
-    messagingSenderId: '440212825933',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'polybee-b7606',
     databaseURL: 'https://polybee-b7606-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'polybee-b7606.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDLnZn3P0FL6c2_lJHAa67oob347E1F-Ag',
-    appId: '1:440212825933:ios:7f42d79dee010b3ca23904',
-    messagingSenderId: '440212825933',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'polybee-b7606',
     databaseURL: 'https://polybee-b7606-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'polybee-b7606.appspot.com',

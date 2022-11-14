@@ -1,17 +1,13 @@
 import 'package:camera/camera.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/physics.dart';
 import 'video_page.dart';
 import 'dart:async';
 import 'package:firebase_database/firebase_database.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:intl/intl.dart';
-import '../firebase_options.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:flutter_sensors/flutter_sensors.dart';
 import 'package:firebase_storage/firebase_storage.dart';
-import 'dart:async';
-import 'dart:io';
 
 class CameraPage extends StatefulWidget {
   const CameraPage({Key? key}) : super(key: key);
